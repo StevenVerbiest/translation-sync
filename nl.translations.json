@@ -1,5 +1,4 @@
 {
-    "test.editor": "Test editor override",
-    "test.code": "Test code",
-    "test": ""
+    "test.editor": "Test editor",
+    "test.code": "Test code"
 }
