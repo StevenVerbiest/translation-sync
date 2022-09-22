@@ -1,6 +1,3 @@
 {
-    "test": "Test",
-    "test.context": {
-        "Another test": ""
-    }
+  "test.code": ""
 }
