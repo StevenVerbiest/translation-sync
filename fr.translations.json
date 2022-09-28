@@ -1,5 +1,6 @@
 {
     "test.editor": "Test editor override",
     "test.code": "Test code",
-    "test": ""
+    "test": "",
+    "test.webhook": ""
 }
